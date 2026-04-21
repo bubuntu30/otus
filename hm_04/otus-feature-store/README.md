@@ -15,9 +15,9 @@
 Оба Feature View используются в on-demand Feature View (realtime_driver_metrics)
 Вычисляет метрики в реальном времени:
 
-quality_index — комбинированная оценка качества водителя
-efficiency_score — итоговая эффективность с учётом активности
+quality_index - комбинированная оценка качества водителя
+efficiency_score - итоговая эффективность с учётом активности
 
-# 3 Приложите ноутбу
+# 3 Приложите ноутбук
 
 Ноутбук - otus-feature-store/example.ipynb
