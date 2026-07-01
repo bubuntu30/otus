@@ -1,0 +1,7 @@
+{
+  "name": "fraud-clean",
+  "pyspark_job": {
+    "main_python_file_uri": "s3a://otus-fraud-suv/scripts/fraud_clean.py"
+  },
+  "cluster_id": "c9qep843ll37k7hki9k4"
+}
